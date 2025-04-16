@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I’m Youssef 👋
 
-<!--
-**Usf277/Usf277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Infrastructure enthusiast, passionate about building scalable and reliable systems.
 
-Here are some ideas to get you started:
+🛠️ Skilled in:
+- Linux, Git, Docker
+- CI/CD (GitHub Actions)
+- AWS, Terraform
+- Monitoring (Prometheus) & Logging (EFK, Loki)
+- Python & Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Practicing the DevOps mindset, methodology, and culture to deliver automated and resilient infrastructure.
+
+💡 Focused on reliability, automation, and continuous improvement.
+
+🎯 Always open to opportunities, collaborations, and new challenges.
+
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/youssef-safwat-518429231/)) or [Email](youssefsafwat77@gmail.com)
