@@ -16,3 +16,8 @@
 🎯 Always open to opportunities, collaborations, and new challenges.
 
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/youssef-safwat-518429231/)) or [Email](youssefsafwat77@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usf277&layout=compact&theme=tokyonight)
+
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usf277&show_icons=true&theme=tokyonight)
+
