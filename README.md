@@ -20,3 +20,5 @@
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usf277&show_icons=true&theme=tokyonight)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Usf277&repo=audio-recog)](https://github.com/Usf277/audio-recog)
+
