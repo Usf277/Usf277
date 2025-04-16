@@ -4,9 +4,8 @@
 
 🛠️ Skilled in:
 - Linux, Git, Docker
-- CI/CD (GitHub Actions)
+- CI/CD (Jenkins & GitHub Actions)
 - AWS, Terraform
-- Monitoring (Prometheus) & Logging (EFK, Loki)
 - Python & Bash scripting
 
 🧠 Practicing the DevOps mindset, methodology, and culture to deliver automated and resilient infrastructure.
