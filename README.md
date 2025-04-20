@@ -1,3 +1,5 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" width="848" height="477">
+
 # Hi, I’m Youssef <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"/>
 
 ## 🚀 DevOps & Infrastructure enthusiast, passionate about building scalable and reliable systems.
@@ -17,8 +19,6 @@
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/youssef-safwat-518429231/) or [Email](mailto:youssefsafwat77@gmail.com)
 
 🖇️ My Resume [Youssef-Safwat-Resume](https://drive.google.com/file/d/1pcgdu6Q2tJ_d6OBfCdwBbBvxs0k1YyI6/view?usp=drive_link)
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/514f682a0b43a9422eee5d9e1d81ef2b7c866247575a96f1080913870d87f0e9/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633" width="847" height="476">
 
 ---
 
